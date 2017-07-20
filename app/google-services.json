@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "583067969348",
+    "firebase_url": "https://contact-99d29.firebaseio.com",
+    "project_id": "contact-99d29",
+    "storage_bucket": "contact-99d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583067969348:android:faf21e4c53ad6fc0",
+        "android_client_info": {
+          "package_name": "com.example.tipsung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583067969348-tq976500pdd5lum3qmqmfe2cl33ts138.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tipsung",
+            "certificate_hash": "e7ba9dbcfb25507092a71778b0b255fd608a2515"
+          }
+        },
+        {
+          "client_id": "583067969348-8nhc25cajjtkvp9p1cni651n9ikrb6d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCob8Ht0ADQFvIOlpco-_3379KhHG9KBpE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583067969348-8nhc25cajjtkvp9p1cni651n9ikrb6d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
